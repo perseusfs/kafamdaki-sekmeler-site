@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#f1ebe0"/>
+  <!-- üç ayraç sekmesi: kitap (hardal), oyun (orman), film (şarap) -->
+  <path d="M120 164h92l14-30h86l14 30h66v232H120z" fill="#b8922f"/>
+  <path d="M120 206h40l14-30h86l14 30h118v190H120z" fill="#3e6656"/>
+  <path d="M120 248h146l14-30h86l14 30h12v148H120z" fill="#8c3446"/>
+  <path d="M120 290h272v106H120z" fill="#f8f4ec"/>
+  <path d="M152 324h150M152 356h104" stroke="#2a221d" stroke-width="12" stroke-linecap="round"/>
+  <rect x="120" y="134" width="272" height="262" fill="none" stroke="#2a221d" stroke-width="0"/>
+</svg>
